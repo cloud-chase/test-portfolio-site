@@ -1,0 +1,14 @@
+.head__title, 
+.main__section-title {
+  color: red;
+  
+  transition: all .3s ease-in-out;
+}
+
+.head__title:hover {
+  font-size: 50px;
+}
+
+.title {
+  text-decoration: underline;
+}
